@@ -2,6 +2,7 @@ package com.company;
 import java.util.Scanner;
 
 public class Main {
+    // This is for 5 subjects only
 
     public static void main(String[] args) {
         
